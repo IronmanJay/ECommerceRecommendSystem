@@ -1,0 +1,88 @@
+
+Q
+java:S1444"6Make this "public static MONGODB_DATABASE" field final(¦âõØùÿÿÿÿ
+S
+java:S1444	"=Make this "public static MONGODB_USER_COLLECTION" field final(É•´Ê
+V
+java:S1444"@Make this "public static MONGODB_PRODUCT_COLLECTION" field final(ş÷×
+Z
+java:S1444"?Make this "public static MONGODB_RATING_COLLECTION" field final(‡©ŞÜûÿÿÿÿ
+e
+java:S1444"OMake this "public static MONGODB_AVERAGE_PRODUCTS_SCORE_COLLECTION" field final(—Âàõ
+`
+java:S1444"EMake this "public static MONGODB_PRODUCT_RECS_COLLECTION" field final(¦ğ‡Çùÿÿÿÿ
+a
+java:S1444"KMake this "public static MONGODB_RATE_MORE_PRODUCTS_COLLECTION" field final(ŸÙ§×
+o
+java:S1444"TMake this "public static MONGODB_RATE_MORE_PRODUCTS_RECENTLY_COLLECTION" field final(çßËÖúÿÿÿÿ
+Z
+java:S1444"DMake this "public static MONGODB_STREAM_RECS_COLLECTION" field final(ú¹ø‘
+X
+java:S1444"BMake this "public static MONGODB_USER_RECS_COLLECTION" field final(Ê¶µÒ
+Z
+java:S1444"?Make this "public static MONGODB_ITEMCF_COLLECTION" field final(æÑ®Õüÿÿÿÿ
+[
+java:S1444"EMake this "public static MONGODB_CONTENTBASED_COLLECTION" field final(€û÷
+Q
+java:S1444!";Make this "public static PRODUCT_RATING_PREFIX" field final(¨ñäİ
+[
+java:S1444#"EMake this "public static REDIS_PRODUCT_RATING_QUEUE_SIZE" field final(˜–õ±
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ĞÊ£øûÿÿÿÿ
+w
+java:S1104"\Make MONGODB_DATABASE a static final constant or non-public and provide accessors if needed.(¦âõØùÿÿÿÿ
+y
+java:S1104	"cMake MONGODB_USER_COLLECTION a static final constant or non-public and provide accessors if needed.(É•´Ê
+|
+java:S1104"fMake MONGODB_PRODUCT_COLLECTION a static final constant or non-public and provide accessors if needed.(ş÷×
+€
+java:S1104"eMake MONGODB_RATING_COLLECTION a static final constant or non-public and provide accessors if needed.(‡©ŞÜûÿÿÿÿ
+‹
+java:S1104"uMake MONGODB_AVERAGE_PRODUCTS_SCORE_COLLECTION a static final constant or non-public and provide accessors if needed.(—Âàõ
+†
+java:S1104"kMake MONGODB_PRODUCT_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(¦ğ‡Çùÿÿÿÿ
+‡
+java:S1104"qMake MONGODB_RATE_MORE_PRODUCTS_COLLECTION a static final constant or non-public and provide accessors if needed.(ŸÙ§×
+•
+java:S1104"zMake MONGODB_RATE_MORE_PRODUCTS_RECENTLY_COLLECTION a static final constant or non-public and provide accessors if needed.(çßËÖúÿÿÿÿ
+€
+java:S1104"jMake MONGODB_STREAM_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(ú¹ø‘
+~
+java:S1104"hMake MONGODB_USER_RECS_COLLECTION a static final constant or non-public and provide accessors if needed.(Ê¶µÒ
+€
+java:S1104"eMake MONGODB_ITEMCF_COLLECTION a static final constant or non-public and provide accessors if needed.(æÑ®Õüÿÿÿÿ
+
+java:S1104"kMake MONGODB_CONTENTBASED_COLLECTION a static final constant or non-public and provide accessors if needed.(€û÷
+w
+java:S1104!"aMake PRODUCT_RATING_PREFIX a static final constant or non-public and provide accessors if needed.(¨ñäİ
+
+java:S1104#"kMake REDIS_PRODUCT_RATING_QUEUE_SIZE a static final constant or non-public and provide accessors if needed.(˜–õ±
+v
+java:S3008"[Rename this field "MONGODB_DATABASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦âõØùÿÿÿÿ
+x
+java:S3008	"bRename this field "MONGODB_USER_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É•´Ê
+{
+java:S3008"eRename this field "MONGODB_PRODUCT_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş÷×
+
+java:S3008"dRename this field "MONGODB_RATING_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡©ŞÜûÿÿÿÿ
+Š
+java:S3008"tRename this field "MONGODB_AVERAGE_PRODUCTS_SCORE_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Âàõ
+…
+java:S3008"jRename this field "MONGODB_PRODUCT_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ğ‡Çùÿÿÿÿ
+†
+java:S3008"pRename this field "MONGODB_RATE_MORE_PRODUCTS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÙ§×
+”
+java:S3008"yRename this field "MONGODB_RATE_MORE_PRODUCTS_RECENTLY_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çßËÖúÿÿÿÿ
+
+java:S3008"iRename this field "MONGODB_STREAM_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ú¹ø‘
+}
+java:S3008"gRename this field "MONGODB_USER_RECS_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¶µÒ
+
+java:S3008"dRename this field "MONGODB_ITEMCF_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÑ®Õüÿÿÿÿ
+€
+java:S3008"jRename this field "MONGODB_CONTENTBASED_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(€û÷
+v
+java:S3008!"`Rename this field "PRODUCT_RATING_PREFIX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨ñäİ
+€
+java:S3008#"jRename this field "REDIS_PRODUCT_RATING_QUEUE_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜–õ±
+U
+java:S1118":Add a private constructor to hide the implicit public one.(Ø¡²›ÿÿÿÿÿ

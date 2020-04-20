@@ -1,0 +1,28 @@
+
+T
+java:S4719k"9Replace charset name argument with StandardCharsets.UTF_8(ÖÜùÿÿÿÿ
+d
+java:S4488†"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Åâ˜Şÿÿÿÿÿ
+^
+java:S4488g"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(±‘•Ö
+c
+java:S1192,"HDefine a constant instead of duplicating this literal "success" 9 times.(‘Ğèåúÿÿÿÿ
+c
+java:S4488u"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÖÌÇÑùÿÿÿÿ
+d
+java:S1192-"IDefine a constant instead of duplicating this literal "products" 7 times.(ŒŞŞ¸ùÿÿÿÿ
+Y
+java:S4719k">Replace charset name argument with StandardCharsets.ISO_8859_1(ÖÜùÿÿÿÿ
+c
+java:S4488Y"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(åûËüÿÿÿÿ
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¦ì8»Û³™.
+c
+java:S4488("HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÎÚ¿ğşÿÿÿÿ
+c
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÀØ§†ıÿÿÿÿ
+^
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ÃóÀú
+c
+java:S4488J"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ôô€¯ÿÿÿÿÿ
+d
+java:S4488‘"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(½£®Âıÿÿÿÿ

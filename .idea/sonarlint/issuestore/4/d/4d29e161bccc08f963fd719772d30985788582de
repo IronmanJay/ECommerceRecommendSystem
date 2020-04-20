@@ -1,0 +1,8 @@
+
+^
+java:S1192"HDefine a constant instead of duplicating this literal "success" 3 times.(Œ³úí
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›¦ìž
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Õ“ß“
+c
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(’Éª©ÿÿÿÿÿ
